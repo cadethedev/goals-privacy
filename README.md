@@ -1,7 +1,9 @@
 # Goals privacy policy
 
-Draft privacy-policy page for the Goals iOS app. The website has no JavaScript, external fonts, analytics, forms, or build dependencies.
+Privacy-policy page for the Goals iOS app. The website has no JavaScript, external fonts, analytics, forms, or build dependencies.
 
-The page is prepared for GitHub Pages, serving `index.html` from the root of the `main` branch. Pages publishing is not enabled yet. This repository contains only the public policy website, not the iOS app source.
+Published URL: https://cadethedev.github.io/goals-privacy/
 
-Before initial publication, replace `SUPPORT_EMAIL_PENDING` and `FEEDBACK_RETENTION_PENDING` with the developer's confirmed details. Then enable Pages for `main` / root. Do not use the draft as the App Store privacy-policy URL.
+GitHub Pages serves `index.html` from the root of the `main` branch. Edit that file and push to update the policy. This repository contains only the public policy website, not the iOS app source.
+
+Contact: Cade.thedev@gmail.com. Feedback and support messages are deleted within 90 days after resolution, or earlier on request. This is a developer-operated retention practice; the website does not automatically delete messages.
